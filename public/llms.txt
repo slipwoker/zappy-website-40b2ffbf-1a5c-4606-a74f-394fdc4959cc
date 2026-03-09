@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי קולקציות אופנה בלעדיות בחנות בגדים לנשים בישראל המובילה. אלגנטיות מתוחכמת, איכות פרמיום וסטייל יוצא דופן. הזמיני עכשיו את המראה המושלם שלך.
+
+### אודות
+https://example.com/about
+הכירי את הבוטיק שמגדיר מחדש אופנת יוקרה בישראל. אושרט פאשן מביאה לך עולם של אלגנטיות מתוחכמת, איכות ללא פשרות וחוויית קנייה בלעדית שתזכרי לתמיד.
+
+### לוקבוק
+https://example.com/lookbook
+צפי בלוקבוק המרהיב שלנו ותתאהבי בקולקציות האופנה המתוחכמות ביותר. בגדים אופנתיים למכירה אונליין שישדרגו את הארון שלך לרמה אחרת לגמרי.
+
+### צור קשר
+https://example.com/contact
+צרי קשר עם חנות האופנה הישראלית המובילה לחוויית שירות אישית ומקצועית. נשמח לעזור לך למצוא את הפריט המושלם. פנייה עכשיו לייעוץ סטיילינג בלעדי!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Oshrat fashion
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Oshrat fashion
+
+### Category
+https://example.com/category/:slug
+מוצרים - Oshrat fashion
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
